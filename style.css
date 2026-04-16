@@ -1,15 +1,16 @@
 body {
     font-family: Arial;
     margin: 0;
-    background: #ff7c02;
+    background: #177
 }
+
 footer{
 
-   background-color: #ff7c02;
+   background-color: #177;
 }
 
 header {
-    background: #ff7c02;
+    background: #177;
     color: rgb(0, 0, 0);
     padding: 25px;
     text-align: center;
@@ -46,7 +47,7 @@ table, th, td {
 
 th {
     background: #000000;
-    color: #ff7c02 ;
+    color: #177;
 }
 
 td, th {
@@ -67,14 +68,14 @@ input, textarea {
 }
 
 button {
-    background:#ff7c02;
+    background:#177;
     color: rgb(0, 0, 0);
     border: none;
     padding: 10px;
 }
 
 button:hover {
-    background: #ff7c02;
+    background: #177;
 }
 
 /* Responsive */
